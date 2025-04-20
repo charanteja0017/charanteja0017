@@ -27,8 +27,8 @@ I'm a passionate developer with a strong focus on building scalable, efficient w
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/charan-teja/)  
-- 📧 charanteja.dev@gmail.com  
-- 🌐 [Portfolio](#) (Coming Soon)
+- 📧 charanteja0017@gmail.com  
+- 🌐 charanteja0017.in
 
 ---
 
