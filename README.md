@@ -60,19 +60,26 @@ I build intelligent systems at the intersection of deep learning, computer visio
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charanteja0017&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanteja0017&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charanteja0017&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charanteja0017&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanteja0017&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://leetcard.jacoblin.cool/charanteja0017?theme=dark&font=Noto%20Sans&ext=heatmap" height="165" />
+</p>
+
+> 💡 *If GitHub stats cards fail to load, you can [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) on Vercel for free in under 2 minutes.*
 
 ---
 
 ### 🏆 Achievements
 
 - 🎯 **GATE 2025** — All India Rank 1061 among 180,000+ candidates in Computer Science
-- 💡 **LeetCode** — 350+ problems solved across data structures and algorithms
+- 💡 **[LeetCode](https://leetcode.com/u/charanteja0017/)** — 350+ problems solved across data structures and algorithms
 - 🎓 **IIT Kharagpur** — M.Tech in Artificial Intelligence (CGPA: 7.87/10)
 
 ---
@@ -81,6 +88,7 @@ I build intelligent systems at the intersection of deep learning, computer visio
 
 [![Website](https://img.shields.io/badge/Website-charanteja0017.in-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charanteja0017.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-charanteja0017-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charanteja0017)
+[![LeetCode](https://img.shields.io/badge/LeetCode-charanteja0017-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/charanteja0017/)
 [![Email](https://img.shields.io/badge/Email-IIT%20Kharagpur-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charanteja001725@kgpian.iitkgp.ac.in)
 
 ---
