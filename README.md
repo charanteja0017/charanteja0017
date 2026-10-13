@@ -12,6 +12,7 @@ I build intelligent systems at the intersection of deep learning, computer visio
 - **Natural Language Processing** — BERT from scratch, transformer-based text classification, fake news detection
 - **Deep Learning** — Custom residual networks, mixed precision training, model optimization and deployment
 - **Signal Processing** — EEG/EOG signal classification for clinical sleep stage detection
+- **Android** — Kotlin + Jetpack Compose apps, home-screen widgets (Glance) and real-time 3D (Filament), shipped as PadStudio
 
 ---
 
@@ -19,8 +20,9 @@ I build intelligent systems at the intersection of deep learning, computer visio
 
 | Project | Highlights |
 |---------|-----------|
-| **[Sleep Stage Detection from EEG Signals](https://github.com/charanteja0017)** | SleepResNet1D (2.5M params) · 75.8% balanced accuracy · 0.683 Cohen's Kappa · AMP + torch.compile |
-| **[BERT from Scratch — Fake News Detection](https://github.com/charanteja0017)** | 109M-parameter BERT · 91.2% accuracy · 0.91 sensitivity · TPU-optimized training |
+| **[PadStudio — Pen & Home-Screen Suite for Xiaomi Pad](https://github.com/charanteja0017/padstudio)** | Android app in Kotlin + Jetpack Compose · per-app Focus Pen Pro gestures via generated Key Mapper profiles · auto-grouped Glance home-screen widgets · Filament 3D pen · no root · 400 unit tests · **[Download APK](https://github.com/charanteja0017/padstudio/releases/latest/download/PadStudio.apk)** |
+| **[Sleep Stage Detection from EEG Signals](https://github.com/charanteja0017/sleep-stage-detection)** | SleepResNet1D (2.5M params) · 75.8% balanced accuracy · 0.683 Cohen's Kappa · AMP + torch.compile |
+| **[BERT from Scratch — Fake News Detection](https://github.com/charanteja0017/fake-news-classification)** | 109M-parameter BERT · 91.2% accuracy · 0.91 sensitivity · TPU-optimized training |
 | **[Retinal Disease Detection](https://github.com/charanteja0017)** | CLIP ViT-B/32 + DenseNet-121 fusion · 0.92 QWK · Grad-CAM heatmaps · APTOS 2019 dataset |
 | **[Text Classification — LSTM & Transformers](https://github.com/charanteja0017)** | BiLSTM + Transformer · 88% accuracy · 0.86 F1 · Flask API with Redis caching |
 
@@ -34,6 +36,7 @@ I build intelligent systems at the intersection of deep learning, computer visio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **ML / Deep Learning**  
@@ -57,6 +60,10 @@ I build intelligent systems at the intersection of deep learning, computer visio
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Mobile**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 
 ---
 
