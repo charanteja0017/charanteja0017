@@ -23,7 +23,7 @@ I build intelligent systems at the intersection of deep learning, computer visio
 | **[PadStudio — Pen & Home-Screen Suite for Xiaomi Pad](https://github.com/charanteja0017/padstudio)** | Android app in Kotlin + Jetpack Compose · per-app Focus Pen Pro gestures via generated Key Mapper profiles · auto-grouped Glance home-screen widgets · Filament 3D pen · no root · 400 unit tests · **[Download APK](https://github.com/charanteja0017/padstudio/releases/latest/download/PadStudio.apk)** |
 | **[Sleep Stage Detection from EEG Signals](https://github.com/charanteja0017/sleep-stage-detection)** | SleepResNet1D (2.5M params) · 75.8% balanced accuracy · 0.683 Cohen's Kappa · AMP + torch.compile |
 | **[BERT from Scratch — Fake News Detection](https://github.com/charanteja0017/fake-news-classification)** | 109M-parameter BERT · 91.2% accuracy · 0.91 sensitivity · TPU-optimized training |
-| **[Retinal Disease Detection](https://github.com/charanteja0017)** | CLIP ViT-B/32 + DenseNet-121 fusion · 0.92 QWK · Grad-CAM heatmaps · APTOS 2019 dataset |
+| **[Retinal Disease Detection](https://github.com/charanteja0017/Retinal-Disease-Detection)** | CLIP ViT-B/32 + DenseNet-121 fusion · 0.92 QWK · Grad-CAM heatmaps · APTOS 2019 dataset |
 | **[Text Classification — LSTM & Transformers](https://github.com/charanteja0017)** | BiLSTM + Transformer · 88% accuracy · 0.86 F1 · Flask API with Redis caching |
 
 ---
